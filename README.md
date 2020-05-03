@@ -1,2 +1,2 @@
-# QuestWidescreen
-A simple way to enable widescreen recording on the Oculus Quest.
+## QuestWidescreen
+QuestWidescreen is a simple way to set your Oculus Quest to record all videoshots in widescreen.
