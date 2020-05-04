@@ -1,2 +1,2 @@
-## QuestWidescreen
-QuestWidescreen is a simple way to set your Oculus Quest to record all videoshots in widescreen.
+## Oculus Quest Widescreen EnableR by RhysesPuff
+QuestWidescreen is a simple application to set your recording resolution for the Oculus Quest.
